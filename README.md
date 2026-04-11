@@ -2,7 +2,7 @@
 
 # Roya Hashimi
 
-![Senior in Data Visualization]()
+![Senior in Data Visualization](jensen-ragoonath-nEiS4zpc14c-unsplash.jpg)
 
 ## About Me
 
@@ -10,4 +10,4 @@ Hi! I’m a senior at the University of Washington Bothell studying Data Visuali
 
 ---
 
-_Image source: Unsplash_
+_Image source: Unsplash_ Link: https://unsplash.com/photos/a-fluffy-yellow-duckling-stands-on-green-grass-nEiS4zpc14c
