@@ -2,7 +2,7 @@
 
 # Roya Hashimi
 
-![Senior in Data Visualization](jensen-ragoonath-nEiS4zpc14c-unsplash.jpg)
+![Senior in Data Visualization]
 
 ## About Me
 
