@@ -1,8 +1,8 @@
-## Hello there 👋
+## Hello World !
 
-# Roya Hashimi
+# I'm Roya Hashimi
 
-![Senior in Data Visualization and Computer Scicence & Software Engineering]
+![Recent Graduate in Data Visualization and Computer Scicence & Software Engineering from the University of Washington]
 
 ## About Me
 
