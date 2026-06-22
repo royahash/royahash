@@ -53,16 +53,13 @@ When I'm not building, I'm usually thinking about how the right chart can change
 
 ### ✨ A few things I've built
 
-> Swap these for your real repos. Keep the format — recruiters skim, so lead with *what it does*, not the tech.
 
-**🗺️ [Project Name](LINK)**
-One line on what it does and why it's interesting. *(D3.js · React)*
+**🗺️ [Credit Approval By Age](https://github.com/royahash/credit-approval-by-age)**
+A narrative D3 lollipop chart showing how credit card approval rates rise across age groups, built for a public audience. *(JavaScript · D3.js v7 · HTML/CSS)*
 
-**📈 [Project Name](LINK)**
-One line on what it does and why it's interesting. *(Python · pandas · Plotly)*
 
-**🎓 [Project Name](LINK)**
-One line on what it does and why it's interesting. *(JavaScript · HTML/CSS)*
+**🎓 [Event Loop](https://github.com/royahash/Event-Loop)**
+A group planning web application that makes coordinating events with your friends much easier. *(JavaScript · HTML/CSS)*
 
 ---
 
@@ -82,8 +79,8 @@ One line on what it does and why it's interesting. *(JavaScript · HTML/CSS)*
 I'm always happy to talk about data, design, or a project worth building.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)]([YOUR_PORTFOLIO_URL])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL])
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/roya-hashimi])
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[royahash001@gmail.com])
 
 ---
 
