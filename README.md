@@ -11,7 +11,7 @@
 
 ### Hi, I'm Roya 👋
 
-I'm a **data visualization** grad who likes turning tangled, complicated data into things people actually understand — and, ideally, things they can't look away from. I care about design that has a reason to exist: clarity over decoration, story over noise.
+I'm a **Data Visualization** grad who likes turning tangled, complicated data into things people actually understand, and, ideally, things they can't look away from. I care about design that has a reason to exist: clarity over decoration, story over noise.
 
 When I'm not building, I'm usually thinking about how the right chart can change someone's mind.
 
@@ -22,7 +22,7 @@ When I'm not building, I'm usually thinking about how the right chart can change
 - 🛠️ Building a **virtual education platform** to expand learning access for girls in Afghanistan
 - 🎨 Going deeper on **D3.js + React** for richer, interactive visualization
 - 📊 Shipping small, sharp projects that turn real datasets into clear stories
-- 💼 **Open to roles** in data visualization, front-end, and communications
+- 💼 **Open to roles** in data visualization, software engineering, front-end, and user experience
 - 📍 Based in Seattle
 
 ---
